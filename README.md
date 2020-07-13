@@ -1,1 +1,1 @@
-# SuperBlog1
+# Practicando un SuperBlog desde el CMS WordPress
